@@ -1,0 +1,2 @@
+# premium-coin-collecting-001-coin-collectors-complete-port
+Tired of tracking your coin collection across sticky notes, half-filled spreadsheets, and forgotten folders? You're losing money and missing opportunities because you can't see the big picture of your portfolio's performance.  This Notion system transforms your coin collection from a hobby into a data-driven investment portfolio. With automated cal
